@@ -1,0 +1,28 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+div{
+    text-align: right;
+}
+a:hover{
+    color: blueviolet;
+
+}
+p{
+    background-color: blueviolet;
+    color: beige;
+}
+span{
+    color: yellow;
+}
+h4{
+    color:blueviolet;
+}
+.th1{
+    color:blueviolet ;
+}
+.th2{
+    background-color: blueviolet;
+    color: white;
+}
